@@ -42,11 +42,11 @@
 
 ---
 
-### 📬 Contact
+### Contact
 
-- 🌐 Website: [tsygantsov.ru](https://tsygantsov.ru)
-- ✉️ Email: luvgreyair@vk.com
-- 💬 Telegram: [@luvgreyair](https://t.me/luvgreyair)
+- Website: [tsygantsov.ru](https://tsygantsov.ru)
+- ✉Email: luvgreyair@vk.com
+- Telegram: [@luvgreyair](https://t.me/luvgreyair)
 
 ---
 
