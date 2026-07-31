@@ -71,6 +71,8 @@
 - Website: [tsygantsov.ru](https://tsygantsov.ru)
 - Email: luvgreyair@vk.com
 - Telegram: [@luvgreyair](https://t.me/luvgreyair)
+- LinkedIn: [tsygantsov](www.linkedin.com/in/tsygantsov)
+- Habr: [luvgreyair](https://habr.com/ru/users/luvgreyair)
 
 ---
 
