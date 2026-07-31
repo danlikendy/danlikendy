@@ -64,8 +64,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danlikendy&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlikendy&layout=compact&theme=gruvbox&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=danlikendy&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danlikendy&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
 </p>
 
 ---
