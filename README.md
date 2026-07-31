@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Artem Tsygantsov</h1>
 
 <p align="center">
-  <em>Business- Data Analyst, Engineer- Data Scientist</em><br>
+  <em>Full Stack Developer</em><br>
   Russia, Moscow | <a href="https://tsygantsov.ru">tsygantsov.ru</a>
 </p>
 
