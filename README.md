@@ -1,6 +1,5 @@
 <!--
   Put this file in a public repo named exactly: danlikendy/danlikendy
-  (GitHub → New repository → Repository name: danlikendy → Public → Add README)
 
   Also in GitHub Settings → Public profile:
   - Name: Artem Tsygantsov
@@ -8,16 +7,16 @@
   - Location: Moscow, Russia
   - Website: https://tsygantsov.ru
   - LinkedIn: in/tsygantsov
-  - Unpin Instagram/VK from sidebar if you want a recruiter-facing page
 
-  Pins (Customize your pins) — up to 6, match Selected work ML repos (unpin attentify / task_manager / tutorslot):
+  Pins (Customize your pins) — up to 6:
   1. heart-risk-ml-project
   2. text-to-image-search-projcet
   3. teledom-retention-model-project
   4. retail-retention-ml-project
   5. marketplace-sales-ml-project
   6. hr-analytics-ml-project
-  (Voicaj: https://voicaj.ru — in README, not necessarily a pin)
+
+  Stats: github-readme-stats.vercel.app is paused (503). Use shion.dev.
 -->
 
 <div align="center">
@@ -42,7 +41,7 @@ M.S. Machine Learning @ [Finance University](https://www.fa.ru/) (2026–2028).
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **[Voicaj](https://voicaj.ru)** | Voice → structured life data. Next.js, Node/Express, PostgreSQL, Redis, YandexGPT + SpeechKit, Docker, GitHub Actions. | [voicaj.ru](https://voicaj.ru) |
-| **[Heart Risk ML](https://github.com/danlikendy/heart-risk-ml-project)** | ML-based heart attack risk prediction: FastAPI service, preprocessing pipeline, and model training. | [repo](https://github.com/danlikendy/heart-risk-ml-project) |
+| **[Heart Risk ML](https://github.com/danlikendy/heart-risk-ml-project)** | Binary heart-attack risk from clinical tabular data. CatBoost + FastAPI. | [repo](https://github.com/danlikendy/heart-risk-ml-project) |
 | **[Text-to-Image Search](https://github.com/danlikendy/text-to-image-search-projcet)** | ResNet50 + TF-IDF + MLP · поиск фото по текстовому описанию. | [repo](https://github.com/danlikendy/text-to-image-search-projcet) |
 | **[TeleDom Retention](https://github.com/danlikendy/teledom-retention-model-project)** | TeleDom Retention Model — прогноз оттока абонентов (ROC-AUC 0.976). | [repo](https://github.com/danlikendy/teledom-retention-model-project) |
 | **[Retail Retention ML](https://github.com/danlikendy/retail-retention-ml-project)** | ML for e-commerce retention: purchase-activity decline, segmentation, personalized offers. | [repo](https://github.com/danlikendy/retail-retention-ml-project) |
@@ -66,8 +65,8 @@ Python · PyTorch · scikit-learn · LangChain · SQL · PostgreSQL · FastAPI �
 ### Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danlikendy&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlikendy&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=8" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=danlikendy&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danlikendy&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
