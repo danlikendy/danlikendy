@@ -1,3 +1,23 @@
+<!--
+  Put this file in a public repo named exactly: danlikendy/danlikendy
+  (GitHub → New repository → Repository name: danlikendy → Public → Add README)
+
+  Also in GitHub Settings → Public profile:
+  - Name: Artem Tsygantsov
+  - Bio: Machine Learning Engineer · RAG, NLP, production Python
+  - Location: Moscow, Russia
+  - Website: https://tsygantsov.ru
+  - LinkedIn: in/tsygantsov
+  - Unpin Instagram/VK from sidebar if you want a recruiter-facing page
+
+  Pins (Customize your pins) — ONLY these 4, unpin hr-analytics / marketplace-sales / retail-retention / telecom / text-to-image / heart-risk:
+  1. attentify_project
+  2. task_manager_project
+  3. tutorslot_bot_tg_project
+  4. voicaj_web — if public; else keep 3 above + best Voicaj-related repo
+  (Voicaj product: https://voicaj.ru — main focus in README)
+-->
+
 <div align="center">
 
 # Artem Tsygantsov
@@ -17,8 +37,8 @@ M.S. Machine Learning @ [Finance University](https://www.fa.ru/) (2026–2028).
 
 ### Selected work
 
-| | | |
-|---|---|---|
+| Project | Description | Link |
+| :--- | :--- | :--- |
 | **[Voicaj](https://voicaj.ru)** | Voice → structured life data. Next.js, Node/Express, PostgreSQL, Redis, YandexGPT + SpeechKit, Docker, GitHub Actions. | [voicaj.ru](https://voicaj.ru) |
 | **[Attentify](https://github.com/danlikendy/attentify_project)** | Interactive Transformer attention — see multi-head weights on live text, not slides. | [repo](https://github.com/danlikendy/attentify_project) |
 | **[Task Manager + AI](https://github.com/danlikendy/task_manager_project)** | FastAPI + PostgreSQL task app with an embedded assistant, analytics, gamification. | [repo](https://github.com/danlikendy/task_manager_project) |
@@ -41,8 +61,8 @@ Python · PyTorch · scikit-learn · LangChain · SQL · PostgreSQL · FastAPI �
 ### Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.shion.dev/api?username=danlikendy&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danlikendy&layout=compact&theme=github_dark&hide_border=true&hide_title=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danlikendy&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlikendy&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
