@@ -10,12 +10,14 @@
   - LinkedIn: in/tsygantsov
   - Unpin Instagram/VK from sidebar if you want a recruiter-facing page
 
-  Pins (Customize your pins) — ONLY these 4, unpin hr-analytics / marketplace-sales / retail-retention / telecom / text-to-image / heart-risk:
-  1. attentify_project
-  2. task_manager_project
-  3. tutorslot_bot_tg_project
-  4. voicaj_web — if public; else keep 3 above + best Voicaj-related repo
-  (Voicaj product: https://voicaj.ru — main focus in README)
+  Pins (Customize your pins) — up to 6, match Selected work ML repos (unpin attentify / task_manager / tutorslot):
+  1. heart-risk-ml-project
+  2. text-to-image-search-projcet
+  3. teledom-retention-model-project
+  4. retail-retention-ml-project
+  5. marketplace-sales-ml-project
+  6. hr-analytics-ml-project
+  (Voicaj: https://voicaj.ru — in README, not necessarily a pin)
 -->
 
 <div align="center">
@@ -40,9 +42,12 @@ M.S. Machine Learning @ [Finance University](https://www.fa.ru/) (2026–2028).
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **[Voicaj](https://voicaj.ru)** | Voice → structured life data. Next.js, Node/Express, PostgreSQL, Redis, YandexGPT + SpeechKit, Docker, GitHub Actions. | [voicaj.ru](https://voicaj.ru) |
-| **[Attentify](https://github.com/danlikendy/attentify_project)** | Interactive Transformer attention — see multi-head weights on live text, not slides. | [repo](https://github.com/danlikendy/attentify_project) |
-| **[Task Manager + AI](https://github.com/danlikendy/task_manager_project)** | FastAPI + PostgreSQL task app with an embedded assistant, analytics, gamification. | [repo](https://github.com/danlikendy/task_manager_project) |
-| **[Tutorslot](https://github.com/danlikendy/tutorslot_bot_tg_project)** | Telegram booking bot with Google Calendar sync. | [repo](https://github.com/danlikendy/tutorslot_bot_tg_project) |
+| **[Heart Risk ML](https://github.com/danlikendy/heart-risk-ml-project)** | ML-based heart attack risk prediction: FastAPI service, preprocessing pipeline, and model training. | [repo](https://github.com/danlikendy/heart-risk-ml-project) |
+| **[Text-to-Image Search](https://github.com/danlikendy/text-to-image-search-projcet)** | ResNet50 + TF-IDF + MLP · поиск фото по текстовому описанию. | [repo](https://github.com/danlikendy/text-to-image-search-projcet) |
+| **[TeleDom Retention](https://github.com/danlikendy/teledom-retention-model-project)** | TeleDom Retention Model — прогноз оттока абонентов (ROC-AUC 0.976). | [repo](https://github.com/danlikendy/teledom-retention-model-project) |
+| **[Retail Retention ML](https://github.com/danlikendy/retail-retention-ml-project)** | ML for e-commerce retention: purchase-activity decline, segmentation, personalized offers. | [repo](https://github.com/danlikendy/retail-retention-ml-project) |
+| **[Marketplace Sales ML](https://github.com/danlikendy/marketplace-sales-ml-project)** | ML for e-commerce retention: purchase-activity decline, segmentation, personalized offers. | [repo](https://github.com/danlikendy/marketplace-sales-ml-project) |
+| **[HR Analytics ML](https://github.com/danlikendy/hr-analytics-ml-project)** | HR analytics ML project (workforce / turnover modeling). | [repo](https://github.com/danlikendy/hr-analytics-ml-project) |
 
 Writing: [RAG without a trust policy](https://habr.com/ru/users/luvgreyair/) — rules vs materials, retrieval gates for product assistants.
 
